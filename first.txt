@@ -1,3 +1,4 @@
 First text to my file
 Hello
 Hello
+Another hello
